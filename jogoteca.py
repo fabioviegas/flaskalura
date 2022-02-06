@@ -24,7 +24,7 @@ class Usuario:
 
 usuario1 = Usuario('fabio.viegas', 'Fábio Viegas', '1234')
 usuario2 = Usuario('fulano.silva', 'Fulano Silva', '4321')
-usuario3 = Usuario('caju.zeiro', 'Cão Caju', 'osso')
+usuario3 = Usuario('caju.zeiro', 'Cão Caju', 'ossos')
 
 usuarios = {usuario1.id: usuario1,
             usuario2.id: usuario2,
